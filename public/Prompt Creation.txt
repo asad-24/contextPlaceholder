@@ -1,0 +1,19 @@
+Prompt Creation
+
+Conversational Type: 
+Code Authoring (Code Generation): This involves generating code from a text description. By providing details in the prompt, it elicits a response from the model that contains the generated code.
+Code Analysis & Explanation (Analyzing Code): This includes activities such as refactoring, compression, optimization, translation, and precise edits based on a text description. It is required to include the code in the prompt. For example, in refactoring, providing the code to be refactored is mandatory; without it, the purpose of the task is defeated.
+Coding Q&A & Assistance (Talk about Code): This involves general Q&A that doesn't necessarily include code but rather focuses on programming concepts, problem-solving, and solutions.
+Conversational Coding (Multi-turn): This is a mixture of the previous three types, allowing for multi-turn interactions that may involve code generation, analysis, and general coding assistance.
+
+Above is the criteria for writing the prompt of specific types.
+
+
+{{Meta data}}
+
+
+Conversation type is Code Analysis & Explanation (Analyzing Code). So I need a starting code snippet as well in the prompt.
+
+
+
+
